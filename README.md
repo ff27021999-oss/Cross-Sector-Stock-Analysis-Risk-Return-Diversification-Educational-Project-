@@ -1,11 +1,11 @@
-# # 📊 Cross-Sector Stock Analysis: Risk, Return & Diversification
+# # Cross-Sector Stock Analysis: Risk, Return & Diversification
 
 **Description:**  
 Educational project in financial analysis: applying volatility, beta, Sharpe ratio and CAPM to real market data.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates a practical application of financial analysis techniques using real stock market data.
 
@@ -16,7 +16,7 @@ The main goal was to analyze stocks from different sectors and evaluate their:
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 The work was carried out as follows:
 
@@ -32,7 +32,7 @@ The work was carried out as follows:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `src/stock_analysis.py` — main script for data collection and calculations  
 - `data/stock_analysis.xlsx` — generated dataset with calculated metrics  
@@ -40,7 +40,7 @@ The work was carried out as follows:
 
 ---
 
-## 📈 Key Metrics Explained
+## Key Metrics Explained
 
 - **Volatility** — measures risk (price variability)
 - **Beta** — sensitivity to market movements
@@ -49,7 +49,7 @@ The work was carried out as follows:
 
 ---
 
-## 📊 Results & Insights
+## Results & Insights
 
 The analysis shows how:
 - stocks from different sectors behave differently in terms of risk and return
@@ -60,7 +60,7 @@ Detailed conclusions can be found in the report.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -70,7 +70,7 @@ Detailed conclusions can be found in the report.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 ```bash
